@@ -1,5 +1,7 @@
 # lab-padroes
 
+# Documentação do Módulo de Conexão
+
 ## Descrição
 Este projeto implementa um padrão de conexão segura com o banco de dados, utilizando **Design Pattern** para evitar *Hardcoding*.
 
